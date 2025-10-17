@@ -9,9 +9,18 @@
 
 <strong> Figura 1. </strong> Conexión vía screen por la terminal de Ubuntu.
 
-Al iniciar en la terminal se inicio su configuración, se visualizaron los comandos y la configuración de la Vlan 10</bir>
+### 1.2 Configuración del Cisco 2960
+
++ Enseguida, se procedió a realizar su configuración básica y la configuración de la Vlan 10 como se puede observar a continuación:
+  
 ![Imagen de WhatsApp 2025-09-24 a las 21 30 53_d94921c0](https://github.com/user-attachments/assets/67bcdf97-4707-4f7a-a341-1141b23546f0)
+
+<strong> Figura 2. </strong> Conexión básica Cisco 2960.
+
 ![Imagen de WhatsApp 2025-09-29 a las 22 14 43_157aa5f3](https://github.com/user-attachments/assets/4b4b3348-6a87-44d6-bc8d-9c0295e5bf9f)
+
+<strong> Figura 3. </strong> Conexión vía screen por la terminal de Ubuntu.
+
 ![Imagen de WhatsApp 2025-09-29 a las 21 03 50_1c811e57](https://github.com/user-attachments/assets/b9d478a6-7781-48a0-bca2-c250e994c713)
 
 #### Se realizo la configuración de IP de cada uno de los dispositivos a conectarse al switch</bir>
