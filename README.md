@@ -1,19 +1,68 @@
 # Laboratorio-4-Red-y-Maquinas-Virtuales
-##Conexión con switch basico cisco 2960
+## Conexión con switch basico cisco 2960
 ### Configuración de conexion serial
-Se inicio la conexión por Screen</bir>
+
+##### Se inicio la conexión por Screen</bir>
 ![Imagen de WhatsApp 2025-09-29 a las 20 55 37_49722885](https://github.com/user-attachments/assets/d92a2456-2851-4a05-942a-3316a7f0e826)
+
 Al iniciar en la terminal se inicio su configuración, se visualizaron los comandos y la configuración de la Vlan 10</bir>
 ![Imagen de WhatsApp 2025-09-24 a las 21 30 53_d94921c0](https://github.com/user-attachments/assets/67bcdf97-4707-4f7a-a341-1141b23546f0)
 ![Imagen de WhatsApp 2025-09-29 a las 22 14 43_157aa5f3](https://github.com/user-attachments/assets/4b4b3348-6a87-44d6-bc8d-9c0295e5bf9f)
 ![Imagen de WhatsApp 2025-09-29 a las 21 03 50_1c811e57](https://github.com/user-attachments/assets/b9d478a6-7781-48a0-bca2-c250e994c713)
-##### Se realizo la configuración de IP de cada uno de los dispositivos a conectarse al switch</bir>
+
+#### Se realizo la configuración de IP de cada uno de los dispositivos a conectarse al switch</bir>
+
 Configuración de IP de la raspberry</bir>
 ![Imagen de WhatsApp 2025-09-29 a las 21 46 35_a6c2f22c](https://github.com/user-attachments/assets/aa501afd-fc58-429a-b26c-40d29829cbd8)
-Configuración de IP del Pc Monitor
+
+##### Configuración de IP del Pc Monitor
+
 + Se verifico primero si el pc tenia ip de ethernet y se le asigno una. A continuación</bir>
 ![Imagen de WhatsApp 2025-09-29 a las 21 49 57_ed990489](https://github.com/user-attachments/assets/11c8de8d-8f85-41df-9337-a0a024cfd370)
+
 Se verifico con el comando de "Ping" que se hizo la conexión entre la Raspberry y el Pc Monitor</bir>
 ![Imagen de WhatsApp 2025-09-29 a las 21 47 42_15998f99](https://github.com/user-attachments/assets/0845f2d1-9fc2-47e1-b057-5a844821b997)
 ![Imagen de WhatsApp 2025-09-29 a las 21 51 34_5f5fac10](https://github.com/user-attachments/assets/da95e5c8-aebc-4071-b520-0c46ca91bd8e)
 
+### Instalación de Ubuntu en Maquina Virtual:
+
+
+### Instalación de Centos en Maquina Virtual:
+
+
+### Instalación de Alpine en Maquina Virtual:
+
+##### Se realizo la instalación del Terminal de Ubuntu, atraves de QEMU:
+
++ Se creo primeramente el directorio para la maquina virtual:
+<img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/07f8891f-1413-4074-824a-fc2064511a46" />
+
++ Luego, se creo el disco virtual:
+<img width="1600" height="80" alt="image" src="https://github.com/user-attachments/assets/dd2a7095-5b8c-49f2-90ac-565281aba26e" />
+
++ Iniciamos la instalación de Alpine:
+<img width="1533" height="937" alt="image" src="https://github.com/user-attachments/assets/c23c8ef1-aaf7-4fc5-885e-575bde5723a2" />
+<img width="1310" height="917" alt="image" src="https://github.com/user-attachments/assets/58c89697-c2ec-4211-845b-2662186458ed" />
+
++ Una vez ya instalada e iniciada la MV de Alpine usamos los siguientes comandos para realizar la configuración de usuario:
+<img width="572" height="469" alt="image" src="https://github.com/user-attachments/assets/1b714eb0-bad2-40e1-b7c6-7c988b03de9c" />
+
++ Aqui podemos visualizar la configuración de la interfaz, de usuario y disco, respectivamente ya hecha:
+<img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/22101678-b74d-4edb-bbf0-d74c21f9bf68" />
+<img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/9cda55cd-776e-4672-a7d1-cdad8e24653e" />
+<img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/770a944d-3576-4be5-8b05-79edd067ceb1" />
+
++ Aqui ya se completo toda la instalación:
+<img width="1332" height="265" alt="image" src="https://github.com/user-attachments/assets/04b5e9af-8f41-46ac-a304-451052d8fed8" />
+
+### Instalacion de Scientific Linux en Maquina Virtual:
+
++ Se creo manualmente la instalación de Scientific Linux y se creó el disco virtual:
+<img width="1600" height="111" alt="image" src="https://github.com/user-attachments/assets/3c4e7198-a946-429d-b615-cb64f563dc26" />
+
++ Se desplego la pantalla de Scientific Linux y se inicio su instalación:
+<img width="653" height="548" alt="image" src="https://github.com/user-attachments/assets/470e6355-3221-4e0d-83d5-ccbf887ddde7" />
+
++ Iniciamos su configuración conectandolo a la red y demas:
+<img width="1297" height="843" alt="image" src="https://github.com/user-attachments/assets/0c821ba0-b98b-4224-b3c2-f73433f11450" />
+<img width="1298" height="873" alt="image" src="https://github.com/user-attachments/assets/6423f0a9-133e-43af-9645-9023797e1cd0" />
