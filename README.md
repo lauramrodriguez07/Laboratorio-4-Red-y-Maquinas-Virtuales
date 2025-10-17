@@ -125,6 +125,13 @@
 
 #### 1.4.2  Instalación de Centos en Máquina Virtual:
 
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_a846d7d7](https://github.com/user-attachments/assets/7036ae4e-5389-4119-b324-0a40ad7e3eac)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_6c8ef406](https://github.com/user-attachments/assets/1396274c-1877-4a5c-8808-80d52d63543e)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_fa4f1a8e](https://github.com/user-attachments/assets/9f96377c-fd9e-47ad-a7f6-ded45e4452b5)
+
+
 
 
 
