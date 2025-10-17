@@ -143,49 +143,49 @@
   
 <img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/07f8891f-1413-4074-824a-fc2064511a46" />
 
-<strong> Figura 11. </strong> Crear la máquina virtual.
+<strong> Figura 24. </strong> Crear la máquina virtual.
 
 + Enseguida, se creo el disco virtual:
   
 <img width="1600" height="80" alt="image" src="https://github.com/user-attachments/assets/dd2a7095-5b8c-49f2-90ac-565281aba26e" />
 
-<strong> Figura 11. </strong> Crear el disco virtual.
+<strong> Figura 25. </strong> Crear el disco virtual.
 
 + Se inicia con el proceso de instalación de Alpine:
   
 <img width="1533" height="937" alt="image" src="https://github.com/user-attachments/assets/c23c8ef1-aaf7-4fc5-885e-575bde5723a2" />
 
-<strong> Figura 11. </strong> Iniciando el proceso de Instalación de Alpine (1).
+<strong> Figura 26. </strong> Iniciando el proceso de Instalación de Alpine (1).
 
 <img width="1310" height="917" alt="image" src="https://github.com/user-attachments/assets/58c89697-c2ec-4211-845b-2662186458ed" />
 
-<strong> Figura 11. </strong> Iniciando el proceso de Instalación de Alpine (2).
+<strong> Figura 27. </strong> Iniciando el proceso de Instalación de Alpine (2).
 
 + Una vez ya instalada e iniciada la MV de Alpine se usarán los siguientes comandos para realizar la configuración de usuario:
   
 <img width="572" height="469" alt="image" src="https://github.com/user-attachments/assets/1b714eb0-bad2-40e1-b7c6-7c988b03de9c" />
 
-<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+<strong> Figura 28. </strong> Proceso de Configuración del Usuario.
 
 + Aqui podemos visualizar la configuración de la interfaz de usuario y disco, respectivamente ya hecha:
   
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/22101678-b74d-4edb-bbf0-d74c21f9bf68" />
 
-<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (1).
+<strong> Figura 29. </strong> Configuración de la interfaz de usuario y disco (1).
 
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/9cda55cd-776e-4672-a7d1-cdad8e24653e" />
 
-<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (2).
+<strong> Figura 30. </strong> Configuración de la interfaz de usuario y disco (2).
 
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/770a944d-3576-4be5-8b05-79edd067ceb1" />
 
-<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (3).
+<strong> Figura 31. </strong> Configuración de la interfaz de usuario y disco (3).
 
 + Aqui ya se completo toda la instalación:
   
 <img width="1332" height="265" alt="image" src="https://github.com/user-attachments/assets/04b5e9af-8f41-46ac-a304-451052d8fed8" />
 
-<strong> Figura 11. </strong> Instalación Finalizada para Alpine.
+<strong> Figura 32. </strong> Instalación Finalizada para Alpine.
 
 #### 1.4.4 Instalación de Scientific Linux en Máquina Virtual:
 
@@ -193,20 +193,20 @@
   
 <img width="1600" height="111" alt="image" src="https://github.com/user-attachments/assets/3c4e7198-a946-429d-b615-cb64f563dc26" />
 
-<strong> Figura 11. </strong> Instalación manual y crear un disco virtual.
+<strong> Figura 33. </strong> Instalación manual y crear un disco virtual.
 
 + En segundo lugar, se desplegó la pantalla de Scientific Linux y se inicio su instalación:
   
 <img width="653" height="548" alt="image" src="https://github.com/user-attachments/assets/470e6355-3221-4e0d-83d5-ccbf887ddde7" />
 
-<strong> Figura 11. </strong> Despliegue de Scientific Linux.
+<strong> Figura 34. </strong> Despliegue de Scientific Linux.
 
 + Por último , se realizó su configuración conectándolo a la red y demás:
   
 <img width="1297" height="843" alt="image" src="https://github.com/user-attachments/assets/0c821ba0-b98b-4224-b3c2-f73433f11450" />
 
-<strong> Figura 11. </strong> Proceso de instalación Scientific Linux.
+<strong> Figura 35. </strong> Proceso de instalación Scientific Linux.
 
 <img width="1298" height="873" alt="image" src="https://github.com/user-attachments/assets/6423f0a9-133e-43af-9645-9023797e1cd0" />
 
-<strong> Figura 11. </strong> Instalación Finalizada para Scientific Linux.
+<strong> Figura 36. </strong> Instalación Finalizada para Scientific Linux.
