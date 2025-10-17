@@ -81,7 +81,19 @@ Para esta sección no se pudo realizar el proceso completo:
 
 #### 1.4.1 Instalación de Ubuntu en Maquina Virtual:
 
+![Imagen de WhatsApp 2025-10-17 a las 08 35 01_4b5d500c](https://github.com/user-attachments/assets/041b405d-43bc-439d-9201-6ba9d8950d18)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 01_64824908](https://github.com/user-attachments/assets/0a425c20-de6a-44d3-8d93-c23ff3949f71)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 01_9870c86f](https://github.com/user-attachments/assets/8b39f270-e304-476c-8cbd-2b5b88cac2b3)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_393c1a13](https://github.com/user-attachments/assets/104c3bcf-c244-455a-b6aa-8b954fb7187d)
+
+
+
 #### 1.4.2  Instalación de Centos en Maquina Virtual:
+
+
 
 
 #### 1.4.3  Instalación de Alpine en Maquina Virtual:
