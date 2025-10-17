@@ -43,7 +43,7 @@
 
 <strong> Figura 6. </strong> Configuración del Pc Monitor.
 
-En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión entre la Raspberry y el Pc Monitor como se puede visualizar en las siguientes imagenes:
++ En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión entre la Raspberry y el Pc Monitor como se puede visualizar en las siguientes imagenes:
 
 ![Imagen de WhatsApp 2025-09-29 a las 21 47 42_15998f99](https://github.com/user-attachments/assets/0845f2d1-9fc2-47e1-b057-5a844821b997)
 
@@ -52,6 +52,23 @@ En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión en
 ![Imagen de WhatsApp 2025-09-29 a las 21 51 34_5f5fac10](https://github.com/user-attachments/assets/da95e5c8-aebc-4071-b520-0c46ca91bd8e)
 
 <strong> Figura 8. </strong>  Verificación del comando ping para Pc Monitor (2).
+
+#### 1.3.3 Verificación de conexión con el PC del ETM 
+
++ En tercer lugar, es posible visualizar como se hace conexión con el computador del ETM de la siguiente forma:
+  
+![Imagen de WhatsApp 2025-10-17 a las 07 55 06_e445cb73](https://github.com/user-attachments/assets/9832bf6e-3175-4053-b46b-5fd3abc04355)
+
+<strong> Figura 9. </strong>  Verificación del comando ping para Pc ETM (2).
+
+#### 1.3.4 Análisis de Redes (NMAP)
+
++ En cuarto lugar, se puede observar como se realizó un escaneo de red con el comando "NMAP" :
+
+![Imagen de WhatsApp 2025-10-17 a las 07 52 59_6b7d6e1e](https://github.com/user-attachments/assets/92c223e5-a57a-4a17-84fd-39dacb79c7b7)
+
+<strong> Figura 10. </strong> Uso del comando NMAP.
+
 
 ### 1.4 Instalación de las Maquinas Virtuales:
 
