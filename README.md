@@ -7,6 +7,8 @@
 
 ![Imagen de WhatsApp 2025-09-29 a las 20 55 37_49722885](https://github.com/user-attachments/assets/d92a2456-2851-4a05-942a-3316a7f0e826)
 
+<strong> Figura 1. </strong> Conexión vía screen por la terminal de Ubuntu.
+
 Al iniciar en la terminal se inicio su configuración, se visualizaron los comandos y la configuración de la Vlan 10</bir>
 ![Imagen de WhatsApp 2025-09-24 a las 21 30 53_d94921c0](https://github.com/user-attachments/assets/67bcdf97-4707-4f7a-a341-1141b23546f0)
 ![Imagen de WhatsApp 2025-09-29 a las 22 14 43_157aa5f3](https://github.com/user-attachments/assets/4b4b3348-6a87-44d6-bc8d-9c0295e5bf9f)
