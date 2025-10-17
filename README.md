@@ -119,21 +119,21 @@
 
 <strong> Figura 20. </strong> Proceso de Intalación de Ubuntu (9).
 
-![Imagen de WhatsApp 2025-10-17 a las 08 35 02_393c1a13](https://github.com/user-attachments/assets/104c3bcf-c244-455a-b6aa-8b954fb7187d)
-
-<strong> Figura 21. </strong> Proceso de Intalación de Ubuntu (10).
-
 #### 1.4.2  Instalación de Centos en Máquina Virtual:
+
++ Enseguida, será posible evidenciar el proceso completo de instalación para Centos:
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_a846d7d7](https://github.com/user-attachments/assets/7036ae4e-5389-4119-b324-0a40ad7e3eac)
 
+<strong> Figura 21. </strong> Proceso de Intalación de Centos (1).
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_6c8ef406](https://github.com/user-attachments/assets/1396274c-1877-4a5c-8808-80d52d63543e)
+
+<strong> Figura 22. </strong> Proceso de Intalación de Centos (2).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_fa4f1a8e](https://github.com/user-attachments/assets/9f96377c-fd9e-47ad-a7f6-ded45e4452b5)
 
-
-
-
+<strong> Figura 23. </strong> Proceso de Intalación de Centos (3).
 
 #### 1.4.3  Instalación de Alpine en Máquina Virtual:
 
