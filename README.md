@@ -15,7 +15,7 @@
   
 ![Imagen de WhatsApp 2025-09-24 a las 21 30 53_d94921c0](https://github.com/user-attachments/assets/67bcdf97-4707-4f7a-a341-1141b23546f0)
 
-<strong> Figura 2. </strong> Conexión básica Cisco 2960.
+<strong> Figura 2. </strong> Conexión básica Cisco 2960 (Visualización de comandos en Cisco).
 
 ![Imagen de WhatsApp 2025-09-29 a las 22 14 43_157aa5f3](https://github.com/user-attachments/assets/4b4b3348-6a87-44d6-bc8d-9c0295e5bf9f)
 
