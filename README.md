@@ -29,6 +29,8 @@
 
 #### 1.3.1 Configuración de la Rasberry
 
++ Para esta sección, lo que se realizó fue el proceso de configuración de red para la Rasberry con el objetivo de que pueda enviar y recibir información hacía los otros dispositivos por medio del switch:
+
 ![Imagen de WhatsApp 2025-09-29 a las 21 46 35_a6c2f22c](https://github.com/user-attachments/assets/aa501afd-fc58-429a-b26c-40d29829cbd8)
 
 <strong> Figura 5. </strong> Configuración de la Rasperry.
