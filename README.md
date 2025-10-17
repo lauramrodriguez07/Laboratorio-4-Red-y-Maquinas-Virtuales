@@ -92,31 +92,49 @@ Para esta sección no se pudo realizar el proceso completo:
   
 <img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/07f8891f-1413-4074-824a-fc2064511a46" />
 
+<strong> Figura 11. </strong> Crear la máquina virtual.
+
 + Enseguida, se creo el disco virtual:
   
 <img width="1600" height="80" alt="image" src="https://github.com/user-attachments/assets/dd2a7095-5b8c-49f2-90ac-565281aba26e" />
 
-+ Iniciamos la instalación de Alpine:
+<strong> Figura 11. </strong> Crear el disco virtual.
+
++ Se inicia con el proceso de instalación de Alpine:
   
 <img width="1533" height="937" alt="image" src="https://github.com/user-attachments/assets/c23c8ef1-aaf7-4fc5-885e-575bde5723a2" />
 
+<strong> Figura 11. </strong> Instalación de Alpine.
+
 <img width="1310" height="917" alt="image" src="https://github.com/user-attachments/assets/58c89697-c2ec-4211-845b-2662186458ed" />
 
-+ Una vez ya instalada e iniciada la MV de Alpine usamos los siguientes comandos para realizar la configuración de usuario:
+<strong> Figura 11. </strong> Instalación de Alpine.
+
++ Una vez ya instalada e iniciada la MV de Alpine se usarán los siguientes comandos para realizar la configuración de usuario:
   
 <img width="572" height="469" alt="image" src="https://github.com/user-attachments/assets/1b714eb0-bad2-40e1-b7c6-7c988b03de9c" />
+
+<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
 
 + Aqui podemos visualizar la configuración de la interfaz, de usuario y disco, respectivamente ya hecha:
   
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/22101678-b74d-4edb-bbf0-d74c21f9bf68" />
 
+<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/9cda55cd-776e-4672-a7d1-cdad8e24653e" />
 
+<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/770a944d-3576-4be5-8b05-79edd067ceb1" />
+
+<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
 
 + Aqui ya se completo toda la instalación:
   
 <img width="1332" height="265" alt="image" src="https://github.com/user-attachments/assets/04b5e9af-8f41-46ac-a304-451052d8fed8" />
+
+<strong> Figura 11. </strong> Instalación Finalizada para Alpine.
 
 ### Instalacion de Scientific Linux en Maquina Virtual:
 
