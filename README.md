@@ -37,12 +37,21 @@
 
 #### 1.3.2 Configuración de IP del Pc Monitor
 
-+ Se verifico primero si el pc tenia ip de ethernet y se le asigno una. A continuación</bir>
++ En primer lugar, se verificó que el PC tuviera una IP de Ethernet y se procedió a asignar una nueva. Esto con el objetivo de que todos los dispositivos esten en el en el mismo rango y la máscara de subred para poderse interconectar: 
+  
 ![Imagen de WhatsApp 2025-09-29 a las 21 49 57_ed990489](https://github.com/user-attachments/assets/11c8de8d-8f85-41df-9337-a0a024cfd370)
 
-Se verifico con el comando de "Ping" que se hizo la conexión entre la Raspberry y el Pc Monitor</bir>
+<strong> Figura 6. </strong> Configuración del Pc Monitor.
+
+En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión entre la Raspberry y el Pc Monitor como se puede visualizar en las siguientes imagenes:
+
 ![Imagen de WhatsApp 2025-09-29 a las 21 47 42_15998f99](https://github.com/user-attachments/assets/0845f2d1-9fc2-47e1-b057-5a844821b997)
+
+<strong> Figura 7. </strong> Configuración del Pc Monitor.
+
 ![Imagen de WhatsApp 2025-09-29 a las 21 51 34_5f5fac10](https://github.com/user-attachments/assets/da95e5c8-aebc-4071-b520-0c46ca91bd8e)
+
+<strong> Figura 8. </strong> Configuración del Pc Monitor.
 
 ### Instalación de Ubuntu en Maquina Virtual:
 
