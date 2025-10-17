@@ -1,4 +1,4 @@
-# Laboratorio 4 Red y Maquinas Virtuales
+# Laboratorio 4 Red y Máquinas Virtuales
 ## Elaborado por: Laura Rodriguez y Diana Bernal
 ## 1. Conexión con switch basico cisco 2960
 ### 1.1 Configuración de conexion serial
@@ -62,13 +62,13 @@ En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión en
 
 #### 1.4.3  Instalación de Alpine en Maquina Virtual:
 
-##### Se realizo la instalación del Terminal de Ubuntu, atraves de QEMU:
++ En primer lugar, se realizó la instalación del Terminal de Ubuntu, atraves de QEMU:
 
-+ Se creo primeramente el directorio para la maquina virtual:
++ Luego, se creó el directorio para la máquina virtual:
   
 <img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/07f8891f-1413-4074-824a-fc2064511a46" />
 
-+ Luego, se creo el disco virtual:
++ Enseguida, se creo el disco virtual:
   
 <img width="1600" height="80" alt="image" src="https://github.com/user-attachments/assets/dd2a7095-5b8c-49f2-90ac-565281aba26e" />
 
