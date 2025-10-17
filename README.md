@@ -104,11 +104,11 @@ Para esta sección no se pudo realizar el proceso completo:
   
 <img width="1533" height="937" alt="image" src="https://github.com/user-attachments/assets/c23c8ef1-aaf7-4fc5-885e-575bde5723a2" />
 
-<strong> Figura 11. </strong> Instalación de Alpine.
+<strong> Figura 11. </strong> Iniciando el proceso de Instalación de Alpine (1).
 
 <img width="1310" height="917" alt="image" src="https://github.com/user-attachments/assets/58c89697-c2ec-4211-845b-2662186458ed" />
 
-<strong> Figura 11. </strong> Instalación de Alpine.
+<strong> Figura 11. </strong> Iniciando el proceso de Instalación de Alpine (2).
 
 + Una vez ya instalada e iniciada la MV de Alpine se usarán los siguientes comandos para realizar la configuración de usuario:
   
@@ -116,19 +116,19 @@ Para esta sección no se pudo realizar el proceso completo:
 
 <strong> Figura 11. </strong> Proceso de Configuración del Usuario.
 
-+ Aqui podemos visualizar la configuración de la interfaz, de usuario y disco, respectivamente ya hecha:
++ Aqui podemos visualizar la configuración de la interfaz de usuario y disco, respectivamente ya hecha:
   
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/22101678-b74d-4edb-bbf0-d74c21f9bf68" />
 
-<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (1).
 
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/9cda55cd-776e-4672-a7d1-cdad8e24653e" />
 
-<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (2).
 
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/770a944d-3576-4be5-8b05-79edd067ceb1" />
 
-<strong> Figura 11. </strong> Proceso de Configuración del Usuario.
+<strong> Figura 11. </strong> Configuración de la interfaz de usuario y disco (3).
 
 + Aqui ya se completo toda la instalación:
   
@@ -136,14 +136,26 @@ Para esta sección no se pudo realizar el proceso completo:
 
 <strong> Figura 11. </strong> Instalación Finalizada para Alpine.
 
-### Instalacion de Scientific Linux en Maquina Virtual:
+#### 1.4.4 Instalación de Scientific Linux en Máquina Virtual:
 
-+ Se creo manualmente la instalación de Scientific Linux y se creó el disco virtual:
++ En primer lugar, se creó manualmente la Instalación de Scientific Linux y se creó el disco virtual:
+  
 <img width="1600" height="111" alt="image" src="https://github.com/user-attachments/assets/3c4e7198-a946-429d-b615-cb64f563dc26" />
 
-+ Se desplego la pantalla de Scientific Linux y se inicio su instalación:
+<strong> Figura 11. </strong> Instalación manual y crear un disco virtual.
+
++ En segundo lugar, se desplegó la pantalla de Scientific Linux y se inicio su instalación:
+  
 <img width="653" height="548" alt="image" src="https://github.com/user-attachments/assets/470e6355-3221-4e0d-83d5-ccbf887ddde7" />
 
-+ Iniciamos su configuración conectandolo a la red y demas:
+<strong> Figura 11. </strong> Despliegue de Scientific Linux.
+
++ Por último , se realizó su configuración conectándolo a la red y demás:
+  
 <img width="1297" height="843" alt="image" src="https://github.com/user-attachments/assets/0c821ba0-b98b-4224-b3c2-f73433f11450" />
+
+<strong> Figura 11. </strong> Despliegue de Scientific Linux.
+
 <img width="1298" height="873" alt="image" src="https://github.com/user-attachments/assets/6423f0a9-133e-43af-9645-9023797e1cd0" />
+
+<strong> Figura 11. </strong> Despliegue de Scientific Linux.
