@@ -71,7 +71,7 @@
 
 #### 1.3.5 Envío de Archivos de un Dispositivo fuente a un Dispositivo destino
 
-Para esta sección no se pudo realizar el proceso completo:
++ Para esta sección no se pudo realizar el proceso completo:
 
 ![Imagen de WhatsApp 2025-10-17 a las 07 55 15_38adcf40](https://github.com/user-attachments/assets/4675740f-dffa-4fdd-a19d-5e79a92da3e1)
 
@@ -79,36 +79,56 @@ Para esta sección no se pudo realizar el proceso completo:
 
 ### 1.4 Instalación de las Maquinas Virtuales:
 
-#### 1.4.1 Instalación de Ubuntu en Maquina Virtual:
+#### 1.4.1 Instalación de Ubuntu en Máquina Virtual:
 
++ A continuación, será posible evidenciar el proceso completo de instalación para Ubuntu:
+  
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 01_4b5d500c](https://github.com/user-attachments/assets/041b405d-43bc-439d-9201-6ba9d8950d18)
+
+<strong> Figura 12. </strong> Proceso de Intalación de Ubuntu (1).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 01_64824908](https://github.com/user-attachments/assets/0a425c20-de6a-44d3-8d93-c23ff3949f71)
 
+<strong> Figura 13. </strong> Proceso de Intalación de Ubuntu (2).
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_cbc91643](https://github.com/user-attachments/assets/c9771352-09d6-45f0-9298-6379a7112a9e)
+
+<strong> Figura 14. </strong> Proceso de Intalación de Ubuntu (3).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_b77dd822](https://github.com/user-attachments/assets/b62d37bb-199f-4f77-81e9-9698f870141c)
 
+<strong> Figura 15. </strong> Proceso de Intalación de Ubuntu (4).
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_bfa11188](https://github.com/user-attachments/assets/5d4e694f-e03b-49bb-b145-6437e5b56347)
+
+<strong> Figura 16. </strong> Proceso de Intalación de Ubuntu (5).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_d33ecd9b](https://github.com/user-attachments/assets/50c90310-145a-42c8-ad31-2db730ad5eda)
 
+<strong> Figura 17. </strong> Proceso de Intalación de Ubuntu (6).
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_ab086037](https://github.com/user-attachments/assets/6318a4cf-ea05-4cea-87ba-c48c800b354d)
+
+<strong> Figura 18. </strong> Proceso de Intalación de Ubuntu (7).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_f399ab31](https://github.com/user-attachments/assets/f14bd3a4-0dc5-4788-b5e1-5f6c0a0f5cc7)
 
+<strong> Figura 19. </strong> Proceso de Intalación de Ubuntu (8).
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 01_9870c86f](https://github.com/user-attachments/assets/8b39f270-e304-476c-8cbd-2b5b88cac2b3)
+
+<strong> Figura 20. </strong> Proceso de Intalación de Ubuntu (9).
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_393c1a13](https://github.com/user-attachments/assets/104c3bcf-c244-455a-b6aa-8b954fb7187d)
 
+<strong> Figura 21. </strong> Proceso de Intalación de Ubuntu (10).
+
+#### 1.4.2  Instalación de Centos en Máquina Virtual:
 
 
-#### 1.4.2  Instalación de Centos en Maquina Virtual:
 
 
-
-
-#### 1.4.3  Instalación de Alpine en Maquina Virtual:
+#### 1.4.3  Instalación de Alpine en Máquina Virtual:
 
 + En primer lugar, se realizó la instalación del Terminal de Ubuntu, atraves de QEMU:
 
