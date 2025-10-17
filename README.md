@@ -1,4 +1,4 @@
-# Laboratorio-4-Red-y-Maquinas-Virtuales
+# Laboratorio 4 Red y Maquinas Virtuales
 ## Elaborado por: Laura Rodriguez y Diana Bernal
 ## 1. Conexión con switch basico cisco 2960
 ### 1.1 Configuración de conexion serial
@@ -23,14 +23,17 @@
 
 ![Imagen de WhatsApp 2025-09-29 a las 21 03 50_1c811e57](https://github.com/user-attachments/assets/b9d478a6-7781-48a0-bca2-c250e994c713)
 
-<strong> Figura 4. </strong> Configuración de la Vlan denominada (PcMonitor) .
+<strong> Figura 4. </strong> Configuración de la Vlan denominada (PcMonitor).
 
-#### Se realizo la configuración de IP de cada uno de los dispositivos a conectarse al switch</bir>
+### 1.3 Configuración de los Dispositivos a conectar por medio del switch
 
-Configuración de IP de la raspberry</bir>
+#### 1.3.1 Configuración de la Rasberry
+
 ![Imagen de WhatsApp 2025-09-29 a las 21 46 35_a6c2f22c](https://github.com/user-attachments/assets/aa501afd-fc58-429a-b26c-40d29829cbd8)
 
-##### Configuración de IP del Pc Monitor
+<strong> Figura 5. </strong> Configuración de la Rasperry.
+
+#### 1.3.2 Configuración de IP del Pc Monitor
 
 + Se verifico primero si el pc tenia ip de ethernet y se le asigno una. A continuación</bir>
 ![Imagen de WhatsApp 2025-09-29 a las 21 49 57_ed990489](https://github.com/user-attachments/assets/11c8de8d-8f85-41df-9337-a0a024cfd370)
