@@ -154,8 +154,8 @@ Para esta sección no se pudo realizar el proceso completo:
   
 <img width="1297" height="843" alt="image" src="https://github.com/user-attachments/assets/0c821ba0-b98b-4224-b3c2-f73433f11450" />
 
-<strong> Figura 11. </strong> Despliegue de Scientific Linux.
+<strong> Figura 11. </strong> Proceso de instalación Scientific Linux.
 
 <img width="1298" height="873" alt="image" src="https://github.com/user-attachments/assets/6423f0a9-133e-43af-9645-9023797e1cd0" />
 
-<strong> Figura 11. </strong> Despliegue de Scientific Linux.
+<strong> Figura 11. </strong> Instalación Finalizada para Scientific Linux.
