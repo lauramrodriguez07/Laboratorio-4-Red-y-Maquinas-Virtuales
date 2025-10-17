@@ -47,41 +47,51 @@ En segundo lugar, se verificó con el comando de "Ping" que hubiera conexión en
 
 ![Imagen de WhatsApp 2025-09-29 a las 21 47 42_15998f99](https://github.com/user-attachments/assets/0845f2d1-9fc2-47e1-b057-5a844821b997)
 
-<strong> Figura 7. </strong> Configuración del Pc Monitor.
+<strong> Figura 7. </strong> Verificación del comando ping para Pc Monitor (1).
 
 ![Imagen de WhatsApp 2025-09-29 a las 21 51 34_5f5fac10](https://github.com/user-attachments/assets/da95e5c8-aebc-4071-b520-0c46ca91bd8e)
 
-<strong> Figura 8. </strong> Configuración del Pc Monitor.
+<strong> Figura 8. </strong>  Verificación del comando ping para Pc Monitor (2).
 
-### Instalación de Ubuntu en Maquina Virtual:
+### 1.4 Instalación de las Maquinas Virtuales:
+
+#### 1.4.1 Instalación de Ubuntu en Maquina Virtual:
+
+#### 1.4.2  Instalación de Centos en Maquina Virtual:
 
 
-### Instalación de Centos en Maquina Virtual:
-
-
-### Instalación de Alpine en Maquina Virtual:
+#### 1.4.3  Instalación de Alpine en Maquina Virtual:
 
 ##### Se realizo la instalación del Terminal de Ubuntu, atraves de QEMU:
 
 + Se creo primeramente el directorio para la maquina virtual:
+  
 <img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/07f8891f-1413-4074-824a-fc2064511a46" />
 
 + Luego, se creo el disco virtual:
+  
 <img width="1600" height="80" alt="image" src="https://github.com/user-attachments/assets/dd2a7095-5b8c-49f2-90ac-565281aba26e" />
 
 + Iniciamos la instalación de Alpine:
+  
 <img width="1533" height="937" alt="image" src="https://github.com/user-attachments/assets/c23c8ef1-aaf7-4fc5-885e-575bde5723a2" />
+
 <img width="1310" height="917" alt="image" src="https://github.com/user-attachments/assets/58c89697-c2ec-4211-845b-2662186458ed" />
 
 + Una vez ya instalada e iniciada la MV de Alpine usamos los siguientes comandos para realizar la configuración de usuario:
+  
 <img width="572" height="469" alt="image" src="https://github.com/user-attachments/assets/1b714eb0-bad2-40e1-b7c6-7c988b03de9c" />
 
 + Aqui podemos visualizar la configuración de la interfaz, de usuario y disco, respectivamente ya hecha:
+  
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/22101678-b74d-4edb-bbf0-d74c21f9bf68" />
+
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/9cda55cd-776e-4672-a7d1-cdad8e24653e" />
+
 <img width="1332" height="866" alt="image" src="https://github.com/user-attachments/assets/770a944d-3576-4be5-8b05-79edd067ceb1" />
 
 + Aqui ya se completo toda la instalación:
+  
 <img width="1332" height="265" alt="image" src="https://github.com/user-attachments/assets/04b5e9af-8f41-46ac-a304-451052d8fed8" />
 
 ### Instalacion de Scientific Linux en Maquina Virtual:
