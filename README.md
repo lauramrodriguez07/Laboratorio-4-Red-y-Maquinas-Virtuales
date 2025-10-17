@@ -85,6 +85,18 @@ Para esta sección no se pudo realizar el proceso completo:
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 01_64824908](https://github.com/user-attachments/assets/0a425c20-de6a-44d3-8d93-c23ff3949f71)
 
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_cbc91643](https://github.com/user-attachments/assets/c9771352-09d6-45f0-9298-6379a7112a9e)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_b77dd822](https://github.com/user-attachments/assets/b62d37bb-199f-4f77-81e9-9698f870141c)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_bfa11188](https://github.com/user-attachments/assets/5d4e694f-e03b-49bb-b145-6437e5b56347)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_d33ecd9b](https://github.com/user-attachments/assets/50c90310-145a-42c8-ad31-2db730ad5eda)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_ab086037](https://github.com/user-attachments/assets/6318a4cf-ea05-4cea-87ba-c48c800b354d)
+
+![Imagen de WhatsApp 2025-10-17 a las 08 35 02_f399ab31](https://github.com/user-attachments/assets/f14bd3a4-0dc5-4788-b5e1-5f6c0a0f5cc7)
+
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 01_9870c86f](https://github.com/user-attachments/assets/8b39f270-e304-476c-8cbd-2b5b88cac2b3)
 
 ![Imagen de WhatsApp 2025-10-17 a las 08 35 02_393c1a13](https://github.com/user-attachments/assets/104c3bcf-c244-455a-b6aa-8b954fb7187d)
