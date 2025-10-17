@@ -1,8 +1,10 @@
 # Laboratorio-4-Red-y-Maquinas-Virtuales
-## Conexión con switch basico cisco 2960
-### Configuración de conexion serial
+## Elaborado por: Laura Rodriguez y Diana Bernal
+## 1. Conexión con switch basico cisco 2960
+### 1.1 Configuración de conexion serial
 
-##### Se inicio la conexión por Screen</bir>
++ En primer lugar, se procedió a realizar la conexión por screen como se puede evidenciar en seguida:
+
 ![Imagen de WhatsApp 2025-09-29 a las 20 55 37_49722885](https://github.com/user-attachments/assets/d92a2456-2851-4a05-942a-3316a7f0e826)
 
 Al iniciar en la terminal se inicio su configuración, se visualizaron los comandos y la configuración de la Vlan 10</bir>
