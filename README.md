@@ -69,6 +69,13 @@
 
 <strong> Figura 10. </strong> Uso del comando NMAP.
 
+#### 1.3.5 Envío de Archivos de un Dispositivo fuente a un Dispositivo destino
+
+Para esta sección no se pudo realizar el proceso completo:
+
+![Imagen de WhatsApp 2025-10-17 a las 07 55 15_38adcf40](https://github.com/user-attachments/assets/4675740f-dffa-4fdd-a19d-5e79a92da3e1)
+
+<strong> Figura 11. </strong> El puerto 22 se encuentra cerrado.
 
 ### 1.4 Instalación de las Maquinas Virtuales:
 
